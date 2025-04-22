@@ -1,8 +1,8 @@
 # Notes
 
-HOMEWORK
-
 research question (1 for each step)
-time plans
+
+time management
 
 ai for researching papers
+
