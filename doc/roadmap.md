@@ -3,21 +3,24 @@
 ## 1. Motivation
 
 **Problem:**
-- enable different versions of a GLSP graph editor
+- enable different versions (target platforms) of a GLSP graph editor
 - use variability categories (SPL)
 
 **Goals:**
 - SPL architecture for GLSP-based graph editor
 - manage variability using feature model and viewpoint model
 
-## 2. Scope
+## 2. Structure
 
-**In Scope:**
-- related work analysis (sirius, ...)
-- analysis of variability modeling techniques for graph editors
-- design extension/refinement of the architecture using variability mechanisms
-- implementation of (some) core assets and variability points
-- evaluation based on prototype derivation
+**related work analysis:** sirius, ...
+
+**analysis:** variability modeling techniques for graph editors
+
+**design:** extension/refinement of the architecture
+
+**implementation:** core assets + variability points
+
+**evaluation:** prototype
 
 ## 3. Methodology
 
@@ -31,5 +34,6 @@
         - extend/refine architecture with variability points (viewpoint modeling, architectural patterns for SPLs)
         - extend/refine variability implementation mechanisms (configuration, plugins, code generation)
 - **Application Engineering:**
-    - extend/refine process of configuring (config manager) and generating specific editor products based on feature selections (featureIDE)
+    - extend/refine process of configuring (config manager) 
+    - generate specific editor products based on feature selections (featureIDE)
 
