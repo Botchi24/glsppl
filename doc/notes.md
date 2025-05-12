@@ -1,5 +1,35 @@
 # Notes
 
+## notes 12.05.
+
+## HOMEWORK until 12.05.
+
+- variability dimensions in SPL
+- variant + extension points
+- graph / model editor
+
+## notes 28.04.
+
+einleitung RQ!!!
+30-50 seiten
+SPL -> variabilitäts dimensionen !!!
+
+### tools
+
+share latex tu dresden
+- struktur
+    - kapitel
+        - frage
+        - antwort
+        - zeit
+- zeitplan
+- for tables: tablesgenerator.com
+
+literatur verwaltung program
+- mendeley
+- jabref
+- teror
+
 ## HOMEWORK until 28.04.
 
 - research question (1 for each step)
@@ -10,35 +40,7 @@
 
 - MOF, EMOF, eclipse EMF?
 
-## Papers
-
-**General**
-
-- Modular Feature-Oriented Graphical Editor Product Lines (Kühn)
-    - feature-oriented
-    - family of role-based modeling languages -> custom metamodel
-- (Towards Projectional Editing for Model-Based SPLs)
-- Automated Variability Injection for Graphical Modelling Languages (Garmendia)
-    - presense condition
-
-**GLSP**
-
-- Advanced Visualization and Interaction in
-GLSP-based Web Modeling: Realizing
-Semantic Zoom and Off-Screen Elements (De Carlo)
-    - semantic zoom
-    - offscreen elements
-- A Vision for Flexibile GLSP-based Web Modeling
-Tools (Bork)
-- On Developing and Operating GLSP-based Web
-Modeling Tools: Lessons Learned from BIGUML (Metin)
-
-
-## new Features
-
-- containment
-
-## Research Questions
+**Research Questions**
 
 - integrate SPL variability into architecture
     - separation of source model and graphical model
@@ -47,3 +49,5 @@ Modeling Tools: Lessons Learned from BIGUML (Metin)
 
 - composition in general and of different meta models
     - containment functionality
+
+- new feature: containment

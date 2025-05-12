@@ -15,3 +15,12 @@ GLSP supports multiple integration contexts, including standalone deployments, E
 
 GLSP offers comprehensive capabilities that would benefit variability-rich graphical editors, including model saving, export, layout, edit modes, element selection, validation, creation, deletion, clipboard operations, and undo/redo functionality
 . These features provide the necessary building blocks for developing graph editors with variable capabilities based on feature selections.
+
+## Research
+
+### software product lines in action
+
+- orthogonal variability: variability model <-> basic system model
+    - variability models:
+        - decision based modeling
+        - graphical notation
