@@ -1,3 +1,23 @@
+## Misc
+
+**techniques:**
+- adaptation
+    - inheritance
+    - patching
+    - compile-time configuration
+    - configuration
+- replacement
+    - code generation
+    - component replacement / substitution
+- extension
+    - plugins / addons
+- unknown
+    - templates
+    - parameters
+    - generator
+    - aspects
+    - runtime conditionals
+
 ## Papers
 
 **General**

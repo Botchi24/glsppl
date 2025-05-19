@@ -1,5 +1,24 @@
-**4 dimensions to analyze:**
+**Variability Dimensions:**
+- application domain / product type / feature set
+- execution environment (OS, hardware)
+- implementation (technologies, UI)
+- context at runtime (time, space, user)
+- non functional properties / software quality attributes
+
+Causes:
+- stakeholder needs
+- market-specific legislation / laws + standards
+
+**orthogonal variability model (OVM):**
+- COVAMOF
+![alt text](img/covamof.PNG)
+
+
+**our Dimensions:**
+- metamodel exchangeability
 - editor functionality / features
+- target platform (theia, vs code, web application)
+- notion / viewpoint
 - internal technical variability (of GLSP)
     - input file format
     - layout
@@ -8,30 +27,3 @@
         - graphical model
         - shape model
         - modeltypes
-- target platform (theia, vs code, web application)
-- notion / viewpoint
-
-**techniques:**
-- adaptation
-    - inheritance
-    - patching
-    - compile-time configuration
-    - configuration
-- replacement
-    - code generation
-    - component replacement / substitution
-- extension
-    - plugins / addons
-- unknown
-    - templates
-    - parameters
-    - generator
-    - aspects
-    - runtime conditionals
-
-**topics:**
-- hardware
-- feature sets
-- technologies
-- ui
-- quality attributes
